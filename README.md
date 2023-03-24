@@ -1,7 +1,5 @@
 # OverWatch
 
-Thanks for your interest!
-
 This project is inspired by the classic arcade style shooting gallery games!
 
 Tools used: Python, PyGame framework, Canva Pro
