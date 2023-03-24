@@ -4,7 +4,7 @@ This project is inspired by the classic arcade style shooting gallery games!
 
 Tools used: Python, PyGame framework, Canva Pro
 
-The entire project has been built from scratch. Static images are used as backgrounds. Tiers of proceedurally drawn targets are animated onto each level and we get them 
+The entire project has been built from scratch. Static images are used as backgrounds. Tiers of procedurally drawn targets are animated onto each level and we get them 
 moving and checked if the player has shot. Once the player clears a full level of targets, they proceed to the next level. Needless to say, with each level the 
 difficulty of the game increases.
 
